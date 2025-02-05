@@ -1,0 +1,27 @@
+{
+  "0": [
+    {
+      "keyword": "رقیق",
+      "keyword_id": 162,
+      "start_time": 1.5,
+      "end_time": 2.5,
+      "confidence": 0.9809862057208937
+    },
+    {
+      "keyword": "خوششون",
+      "keyword_id": 157,
+      "start_time": 5.0,
+      "end_time": 5.612244897959184,
+      "confidence": 0.9789913631509822
+    }
+  ],
+  "1": [
+    {
+      "keyword": "އޮފިސަރ",
+      "keyword_id": 130,
+      "start_time": 2.5,
+      "end_time": 3.071428571428571,
+      "confidence": 0.9729866116477224
+    }
+  ]
+}
